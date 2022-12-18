@@ -5,7 +5,7 @@ const button1 = document.getElementById("nightmode")
 const button2 = document.getElementById("lightmode")
 
 button1.addEventListener('click', function (body) {
-    document.body.style.backgroundColor = 'black'
+    document.body.style.backgroundColor = '#5027177'
 }
 )
 
